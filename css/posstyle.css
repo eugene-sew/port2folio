@@ -1,0 +1,31 @@
+.main {
+  background-color: blue;
+  width: 800px;
+  height: 800px;
+  position: fixed;
+}
+
+.top {
+  background-color: green;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+}
+
+.middle {
+  background-color: lightblue;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 209px;
+  left: 209px;
+}
+
+.bottom {
+  background-color: yellow;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 409px;
+  left: 409px;
+}
